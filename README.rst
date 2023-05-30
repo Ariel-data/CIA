@@ -4,7 +4,7 @@ Collision induced absorption (CIA) data
 HITRAN
 ------
 
-(low :math:`T`\ )
+See [Karman2019]_ (low :math:`T`\ ). 
 
 
 +--------+------------------------+
@@ -34,5 +34,8 @@ HITRAN
 +--------+------------------------+
 |H2-He   |       H2-H2            |
 +--------+------------------------+
+
+.. [Karman2019] Tijs Karman, Iouli E. Gordon, Ad van der Avoird, Yury I. Baranov, Christian Boulet, Brian J. Drouin, Gerrit C. Groenenboom, Magnus Gustafsson, Jean-Michel Hartmann, Robert L. Kurucz, Laurence S. Rothman, Kang Sun, Keeyoon Sung, Ryan Thalman, Ha Tran, Edward H. Wishnow, Robin Wordsworth, Andrey A. Vigasin, Rainer Volkamer, Wim J. van der Zande, Update of the HITRAN collision-induced absorption section, Icarus,  328,  160-175 (2019) `doi:10.1016/j.icarus.2019.02.034 <https://doi.org/10.1016/j.icarus.2019.02.034>`__
+
 
 
