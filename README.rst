@@ -76,3 +76,17 @@ New experimental measurements of the H\ :sub:`2` CIA fundamental band in the [36
 .. [Vitali2025] Francesca Vitali, Stefania Stefani, Giuseppe Piccioni, Marcel Snels, Davide Grassi, David Biondi, Angelo Boccaccini, New experimental measurements of the Collision Induced Absorptions of H\ :sub:`2`-H\ :sub:`2` and H\ :sub:`2`-He in the 3600-5500 cm\ :sup:`-1` spectral range from 120 to 500 K, *J. Quant. Spectrosc. Radiat. Transfer*,  **330**, (2025) `<https://doi.org/10.1016/j.jqsrt.2024.109255>`__
 
 .. [Terragni2025] J. Terragni, I.E. Gordon, E.M. Adkins, C. Boulet, A. Campargue, D. Chistikov, A. Finenko, H. Finkenzeller, H. Fleurbaey, R.J. Hargreaves, R.K. Hanson, J.-M. Hartmann, A. Klingberg, E. Kohler, A.O. Koroleva, D. Mondelain, G. Piccioni, S. Stefani, C.L. Strand, H. Tran, M. Turbet ,A. Vigasin, F. Vitali, R. Volkamer, C. Wei, Collision induced absorption in HITRAN2024: Enhanced and improved data for atmospheric and planetary studies, *J. Quant. Spectrosc. Radiat. Transfer*,  **347**, (2025) `<https://doi.org/10.1016/j.jqsrt.2025.109631>`__
+
+------
+
+New experimental measurements of the H\ :sub:`2` CIA fundamental band in the [3907, 4770] cm\ :sup:`-1` spectral range, using a H\ :sub:`2` - CO\ :sub:`2` mixture have been published in [Vitali2026]_. The H\ :sub:`2` - CO\ :sub:`2` binary absorption coefficients have been recorded for temperatures going from 241 to 498 K, at a resolution of 1 cm\ :sup:`-1`. The data can be downloaded in tabular form from Zenodo platform at this link `<https://doi.org/10.5281/zenodo.19068833>`
+
++--------+----------------------+----------------------+----------------------+
+|System  | v\ :sub:`min`        | v\ :sub:`max`        | Temperature range    |
++--------+----------------------+----------------------+----------------------+
+|        | cm\ :sup:`-1`        | cm\ :sup:`-1`        |          K           |
++--------+----------------------+----------------------+----------------------+
+|H2-CO2  |        3907          |          4770        |      [241 - 498]     |
++--------+----------------------+----------------------+----------------------+
+
+.. [Vitali2026] Francesca Vitali, Stefania Stefani, Giuseppe Piccioni, Ha Tran, Marcel Snels, Davide Grassi, Christian Boulet, David Biondi, Angelo Boccaccini, New experimental measurements of the H\ :sub:`2` - CO\ :sub:`2` Collision-Induced Absorption in the [3907, 4770] cm\ :sup:`-1` spectral range from 241 to 498 K, *Icarus*,  **455**, (2026) `<https://doi.org/10.1016/j.icarus.2026.117103>`__
